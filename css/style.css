@@ -128,6 +128,11 @@ a {
    text-shadow: 0 0px 14px #77BC1F;
 }
 
+.nav-item .active a {
+   color: #77BC1F !important;
+   text-shadow: 0 0px 14px #77BC1F;
+}
+
 @media (max-width: 768px) {
   .signUpButton {
     display:none !important;
